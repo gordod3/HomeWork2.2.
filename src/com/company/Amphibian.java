@@ -9,7 +9,7 @@ public class Amphibian extends Animal {
 
     @Override
     public String print() {
-        return null;
+        return "Print Amphibian";
     }
 
     public String getName() {
